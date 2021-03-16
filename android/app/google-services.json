@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443127475236",
+    "project_id": "imagestore-bdc6b",
+    "storage_bucket": "imagestore-bdc6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443127475236:android:d465c3f879ac320c2cfcb1",
+        "android_client_info": {
+          "package_name": "com.example.image_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443127475236-ccbk6cj1l78rc81md1jljvkt2dr0i74o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1r-OM_6Q93S4wYgta7ciL_dOsloGMZRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443127475236-ccbk6cj1l78rc81md1jljvkt2dr0i74o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
